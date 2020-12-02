@@ -1,3 +1,6 @@
 Primera modificación de texto para probar branch1
 
-Segunda Modificación de texto para generar error en merge 
+
+*****
+
+Cambio de texto para generar error 
